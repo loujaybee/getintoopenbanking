@@ -2,7 +2,7 @@ module.exports = {
   title: 'Get Into Open Banking',
   description: 'Tutorials / Guides on Open Banking',
   home: true,
-  base: '/getintoopenbanking/',
+  base: '/',
   themeConfig: {
     sidebar: [
       '/docs/intro',
