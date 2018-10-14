@@ -2,7 +2,6 @@ module.exports = {
   title: 'Get Into Open Banking',
   description: 'Tutorials / Guides on Open Banking',
   home: true,
-  base: '/',
   ga: 'UA-60078804-4',
   themeConfig: {
     sidebar: [
@@ -19,23 +18,24 @@ module.exports = {
         collapsable: false,
         children: [
           '/docs/whatisopenbanking',
+          '/docs/techlandscape',
           '/docs/thirdparties',
-          '/docs/oauth',
-          '/docs/resources'
         ]
       },
       {
-        title: 'Info For Third Parties',
+        title: 'Third Party Providers',
         collapsable: false,
         children: [
+          '/docs/becomingatpp.md',
           '/docs/faqs'
         ]
       },
       {
-        title: 'Get Involved',
+        title: 'Learn More',
         collapsable: false,
         children: [
-          '/docs/events'
+          '/docs/events',
+          '/docs/resources'
         ]
       }
     ]

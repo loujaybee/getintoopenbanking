@@ -3,12 +3,12 @@ home: true
 heroImage: /hero.jpg
 actionText: Get Started →
 actionLink: /docs/intro.html
-<!-- features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.-->
+features:
+- title: In Plain English
+  details: Open Banking ideas explained in simple, easy to understand english. Because Open Banking should be Open. 
+- title: Un-Biased
+  details: Independent entity with no affiliation with any official Open Banking entities. So it's valid information you can trust. 
+- title: Comprehensive
+  details: Guides and tutorials on everything Open Banking. No more scouring the internet, it's all here, in once place. 
 footer: Built with love by Lou Bichard (www.thedevcoach.co.uk)
 ---

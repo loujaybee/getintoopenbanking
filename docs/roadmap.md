@@ -1,15 +1,16 @@
 
-# Roadmap — Get Into Open Banking
+# Roadmap
 
-The full list of things to come on Get Into Open Banking.
+All upcoming changes to **Get Into Open Banking**.
 
-This page details the full list of questions to answer and tutorials to write for Get Into Open Banking:
-
-* TPP Onboarding
-* How to build a TPP
-* How to build a TPP in NodeJS
-* Understanding FAPI
-* Understanding OpenID Connect
-* What is eIDAS and why should you care?
+* More information on all the technical details (OAuth, OpenIDConnect, eIDAS...)
+    * Understanding FAPI
+    * Understanding OpenID Connect
+    * Understanding eIDAS
+* TPP's
+    * Where to start
+    * How to build a TPP
+* FI's
+    * What you need to know
 
 If you've got a request, [file it as an issue](https://github.com/loujaybee/getintoopenbanking/issues)
